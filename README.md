@@ -1,1 +1,3 @@
-Title, your project name. Then one sentence like, 'This is a small experiment with my code.' And then a section called 'How to Run' with a couple of simple steps, like 'Open the project folder' or 'Run index.html in the browser'. If it's code, not music, there's no need to mention guitars or sound. Just make it short, clear, and practical. Want me to rewrite it with your project details?
+First Face
+ 
+  This is a small experiment with my code.  
