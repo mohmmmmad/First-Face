@@ -1,0 +1,45 @@
+background(45, 214, 113);
+noStroke();
+
+// face
+fill(255, 252, 237);
+ellipse(200 ,204 ,310 ,377);
+
+// left eye
+stroke(0, 0, 0);
+strokeWeight(0);
+
+fill(255, 255, 255);
+ellipse(124 ,126 ,30 ,39); 
+fill(0, 0, 0);
+ellipse(124 ,126 ,8 ,8);
+
+// right eye
+fill(255, 255, 255);
+ellipse(271 ,126 ,30 ,39);
+fill(0, 0, 0);
+ellipse(271 ,126 ,8 ,8);
+
+noStroke();
+// mouth
+fill(247, 143, 242);
+ellipse(205, 289, 104, 54);
+
+// nose
+fill(255, 0, 0);
+ellipse(201 ,190 ,17 ,20);
+
+
+
+stroke(0, 0, 0);
+strokeWeight(5);
+
+line(179, 39, 72, 100);
+
+line(179, 39, 250, 65);
+
+line(250, 65, 316, 78);
+
+strokeWeight(2);
+
+line(154, 289, 255, 289);
